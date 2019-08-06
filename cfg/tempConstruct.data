@@ -1,0 +1,7 @@
+classes= 3
+train  = /home/kxlong/work/dataset/myOwn/tempConstruct/train.txt
+valid  = /home/kxlong/work/dataset/myOwn/tempConstruct/valid.txt
+names = data/tempConstruct.names
+backup = backup
+
+

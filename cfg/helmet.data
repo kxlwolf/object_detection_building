@@ -1,0 +1,7 @@
+classes= 2
+train  = /home/kxlong/work/dataset/myOwn/Ros/train.txt
+valid  = /home/kxlong/work/dataset/myOwn/Ros/valid.txt
+names = data/helmet.names
+backup = backup
+
+

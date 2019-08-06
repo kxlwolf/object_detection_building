@@ -1,0 +1,7 @@
+classes= 20
+train  = /home/kxlong/work/dataset/download/VOC/train.txt
+valid  = /home/kxlong/work/dataset/download/VOC/2007_test.txt
+names = data/voc.names
+backup = backup
+eval=VOC
+

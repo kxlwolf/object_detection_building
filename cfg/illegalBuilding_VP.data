@@ -1,0 +1,7 @@
+classes= 2
+train  = /home/kxlong/work/dataset/myOwn/illegalBuilding_VP/train.txt
+valid  = /home/kxlong/work/dataset/myOwn/illegalBuilding_VP/valid.txt
+names = data/illegalBuilding_VP.names
+backup = backup
+
+
